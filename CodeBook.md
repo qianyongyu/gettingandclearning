@@ -60,5 +60,5 @@ single whitespace.
 There are 68 fields in the file:
 1. activity - the activity during which the measurements are collected. One of WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 2. subject - the subject id performing the activity, ranged from 1 - 30.
-3 - 68.  feature name and aggregation method. For example, fbodyaccjerkmeanx is the mean of the fBodyAccJerk-X variable.
+The rest of the fields are feature name and aggregation method. For example, fbodyaccjerkmeanx is the mean of the fBodyAccJerk-X variable.
 
